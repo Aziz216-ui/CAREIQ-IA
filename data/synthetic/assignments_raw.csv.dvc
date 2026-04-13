@@ -1,0 +1,5 @@
+outs:
+- md5: c67f60c5627d1f18f758d33be2eab02b
+  size: 58745
+  hash: md5
+  path: assignments_raw.csv

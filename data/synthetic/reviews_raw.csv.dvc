@@ -1,0 +1,5 @@
+outs:
+- md5: 7327a4f01ad67d3cc23d4e43cd873935
+  size: 82401
+  hash: md5
+  path: reviews_raw.csv
